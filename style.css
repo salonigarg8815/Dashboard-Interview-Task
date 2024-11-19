@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    margin: 20px;
+    border: 1px solid rgb(167, 164, 164);
+}
+
+.header img {
+    width: 50%;
+}
+
+.nav-item input {
+    padding: 4px 8px;
+}
+
+.nav-item .icon {
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+
+.nav-item i {
+    width: 40px;
+    height: 40px;
+    border: 1px solid skyblue;
+    background-color: skyblue;
+    color: wheat;
+}
+
+.nav-item button {
+    border: none;
+    outline: none;
+    background-color: white;
+    padding: 4px 10px;
+    border-radius: 5px;
+    margin: 0 4px;
+    border: 1px solid rgb(160, 159, 159);
+}
+
+.dropdowns {
+    background-color: rgb(53, 50, 50);
+    padding: 14px;
+}
+
+.dropdowns .list1 {
+    background-color: orange;
+}
+
+.dropdowns button {
+    padding-right: 20px;
+    margin-top: 14px;
+}
+
+.dropdown-toggle {
+    color: white;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+.body-left-sec {
+
+    /* background-color: rgb(146, 207, 231); */
+    /* padding: 20px;
+    border-radius: 4px;
+    margin: 10px; */
+}
+
+.body-top-box {
+    box-shadow: 2px 2px 2px rgb(146, 207, 231);
+    background-color: rgb(146, 207, 231);
+    padding: 20px;
+    /* margin: 0 10px; */
+    border-radius: 4px;
+}
+
+.body-bottom-box {
+    padding: 20px;
+    /* margin: 0 10px; */
+}
+
+.body-row1 {
+
+    /* border: 1px solid red; */
+}
+
+.body-row1 .left-con h4 {
+    font-size: 16px;
+    font-weight: 500;
+    padding: 0 18px;
+}
+
+.body-row1 .right-con button {
+    border: none;
+    outline: none;
+    background-color: white;
+    padding: 4px 10px;
+    border-radius: 5px;
+    margin: 0 4px;
+}
+
+.price-sec {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.price-sec-box {
+    border-right: 1px solid black;
+    padding: 0 24px;
+}
+
+.capture-box1 {
+    box-shadow: 2px 2px 2px rgb(137, 231, 137);
+    margin: 0 10px;
+    background-color: rgb(137, 231, 137);
+    border-radius: 5px;
+    color: rgb(2, 37, 15);
+    padding: 20px;
+}
+
+.capture-box2 {
+    box-shadow: 2px 2px 2px rgb(255, 192, 203);
+    margin: 0 10px;
+    background-color: rgb(255, 192, 203);
+    border-radius: 5px;
+    color: #35010a;
+    padding: 20px;
+}
+
+.capture-box3 {
+    box-shadow: 2px 2px 2px rgb(255, 255, 0);
+    margin: 0 10px;
+    background-color: rgb(255, 255, 0);
+    border-radius: 5px;
+    color: rgb(54, 54, 1);
+    padding: 20px;
+}
