@@ -62,30 +62,15 @@ ul li {
     list-style-type: none;
 }
 
-.body-left-sec {
-
-    /* background-color: rgb(146, 207, 231); */
-    /* padding: 20px;
-    border-radius: 4px;
-    margin: 10px; */
-}
-
 .body-top-box {
     box-shadow: 2px 2px 2px rgb(146, 207, 231);
     background-color: rgb(146, 207, 231);
     padding: 20px;
-    /* margin: 0 10px; */
     border-radius: 4px;
 }
 
 .body-bottom-box {
     padding: 20px;
-    /* margin: 0 10px; */
-}
-
-.body-row1 {
-
-    /* border: 1px solid red; */
 }
 
 .body-row1 .left-con h4 {
